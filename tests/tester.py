@@ -1,4 +1,5 @@
-def tester():
+
+def testing():
     index = 0
     while index < len(tst):
         result = linear(tst[index]['input']['query'], tst[index]['input']['cards'])
