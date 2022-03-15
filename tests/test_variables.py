@@ -1,5 +1,3 @@
-from cards import *
-
 tests = []
 
 # query occurs in the middle

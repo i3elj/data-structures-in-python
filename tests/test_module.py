@@ -1,3 +1,5 @@
+from tests.test_variables import tests as tst
+from algorithms.cards import *
 
 def testing():
     index = 0
