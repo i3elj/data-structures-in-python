@@ -1,8 +1,8 @@
-import tests.test_module
+import tests.test_module as tst
 
 
 def main():
-    tests.test_module.testing()
+    tst.testing()
 
 
 if __name__ == "__main__":
