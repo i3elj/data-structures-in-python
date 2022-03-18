@@ -17,7 +17,7 @@ card_tests.append({
         'cards': [4, 2, 1, -1],
         'query': 4
     },
-    'output': 5
+    'output': 0
 })
 
 card_tests.append({
