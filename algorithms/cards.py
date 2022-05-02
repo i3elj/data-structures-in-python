@@ -7,6 +7,7 @@ def recursive(query, cards):
     else:
         return recursive(query, cards[:pt])
 
+
 def linear(query, cards):
     found_it = False
     pt = 0
@@ -18,4 +19,3 @@ def linear(query, cards):
         return pt
     else:
         return -1
-
