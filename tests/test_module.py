@@ -7,7 +7,7 @@ from tests.test_cases import card_tests
 
 
 def show_results(result, expected_output, index):
-    """show_results"""
+    """show results"""
     if result == expected_output:
         print(f"{Fore.WHITE}{card_tests[index]['description']}")
         print(f"{Fore.WHITE}{card_tests[index]['name']} {index}:", end=" ")
