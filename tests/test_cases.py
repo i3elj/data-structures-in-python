@@ -38,7 +38,7 @@ card_tests.append({
         'query': 6
     },
     'output': 0
- })
+})
 
 card_tests.append({
     'name': "Cards Test",
